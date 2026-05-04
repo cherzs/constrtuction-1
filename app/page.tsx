@@ -363,23 +363,23 @@ export default function Home() {
               
               <div className="pt-4 border-t border-border space-y-3">
                 <div>
-                  <p className="text-sm text-muted-foreground mb-1">Phone</p>
-                  <a href="tel:+6215573316" className="text-foreground hover:text-accent transition-colors">
-                    (021) 5573 3160
+                  <p className="text-sm text-muted-foreground mb-1">WhatsApp</p>
+                  <a href="https://wa.me/6285161917939" target="_blank" className="text-foreground hover:text-accent transition-colors">
+                    +62 851-6191-7939
                   </a>
                 </div>
-                
+
                 <div>
-                  <p className="text-sm text-muted-foreground mb-1">Mobile</p>
-                  <a href="tel:+6281210096601" className="text-foreground hover:text-accent transition-colors">
-                    0812-1009-6601
+                  <p className="text-sm text-muted-foreground mb-1">Instagram</p>
+                  <a href="https://www.instagram.com/flowcreativconsultant/" target="_blank" className="text-foreground hover:text-accent transition-colors">
+                    @flowcreativconsultant
                   </a>
                 </div>
-                
+
                 <div>
                   <p className="text-sm text-muted-foreground mb-1">Email</p>
-                  <a href="mailto:shindongahconstruction@yahoo.com" className="text-foreground hover:text-accent transition-colors">
-                    shindongahconstruction@yahoo.com
+                  <a href="mailto:flowcreativconsultant@gmail.com" className="text-foreground hover:text-accent transition-colors">
+                    flowcreativconsultant@gmail.com
                   </a>
                 </div>
               </div>
