@@ -382,6 +382,13 @@ export default function Home() {
                     flowcreativconsultant@gmail.com
                   </a>
                 </div>
+
+                <div>
+                  <p className="text-sm text-muted-foreground mb-1">LinkedIn</p>
+                  <a href="https://www.linkedin.com/in/zhafranghaly/" target="_blank" className="text-foreground hover:text-accent transition-colors">
+                    linkedin.com/in/zhafranghaly
+                  </a>
+                </div>
               </div>
             </div>
           </div>
