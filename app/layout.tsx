@@ -10,21 +10,7 @@ export const metadata: Metadata = {
   title: 'PT. Shin Dongah Construction | Korean Standard Construction & Interior',
   description: 'Construction, interior fit-out, furniture, MEP, and project management solutions for commercial, residential, industrial, and hospitality projects in Indonesia.',
   icons: {
-    icon: [
-      {
-        url: '/icon-light-32x32.png',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
-      },
-    ],
-    apple: '/apple-icon.png',
+    icon: '/icon.svg',
   },
 }
 
